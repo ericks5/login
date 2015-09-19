@@ -14,9 +14,9 @@
     <body>
         <h1>Hello World!</h1>
         <%
-            out.println("Nombres");
-            out.println("Lourdes Castillo 24094");
-            out.println("Erick Saavedra 24339");
+            out.println("Nombres:");
+            out.println("Lourdes Castillo 24094\n");
+            out.println("Erick Saavedra 24339\n");
         %>
     </body>
 </html>
